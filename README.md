@@ -1,4 +1,4 @@
-# Insurence-Proyect
+# Health Insurance Cost Prediction
 
 ![medico-640x360](https://user-images.githubusercontent.com/85312561/176962002-f9150158-0b62-4401-a051-ec84e62eacd8.jpg)
 
@@ -233,13 +233,3 @@ XGBOOST offers outstanding performance, generalizes very well, easily accomplish
 
 As a curious fact, this type of model is the winner of multiple competitions in Kaggle, which is a kind of social network for data scientists.
 
-
-
-
-### GIF Proyect
-
-<img src="https://media.giphy.com/media/BileRHL3JLUMtG4vH5/giphy.gif" width=350>
-
-### Link app
-
-https://jesus-vazquez-a-insurence-app-streamlit-app-insurence-rbv8gd.streamlitapp.com/
